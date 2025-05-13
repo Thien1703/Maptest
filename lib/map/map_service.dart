@@ -36,16 +36,16 @@ class ClinicService {
     return [
       MapModel(
           id: 1,
-          name: 'Phòng khám Đa Khoa FPT-Cơ sở quận 3',
-          description: 'Phòng khám đa khoa chất lượng cao',
+          name: 'Sân Bóng Đá Phú Nhuận',
+          description: 'Sân bóng đá mini chất lượng cao',
           address: '123 Đường Lê Văn Sỹ , Phường 14 , Quận 3',
           image: '',
           latitude: 10.79175692757917,
           longitude: 106.67188155558836),
       MapModel(
         id: 2,
-        name: 'Phòng khám Đa Khoa FPT-Cơ sở quận 1',
-        description: 'Phòng khám chuyên khoa uy tín',
+        name: 'Sân Bóng Đá Quận 1',
+        description: 'Sân bóng đá mini chất lượng cao',
         address: '456 Đường Nguyễn Thị Minh Khai , Phường 6 , Quận 1',
         image: '',
         latitude: 10.7686508686757,
@@ -53,8 +53,8 @@ class ClinicService {
       ),
       MapModel(
         id: 3,
-        name: 'Phòng khám Đa Khoa FPT-Cơ sở Quận Tân Bình',
-        description: 'Phòng khám chuyên khoa uy tín',
+        name: 'Sân Bóng Đá Quận 2',
+        description: 'Sân bóng đá mini chất lượng cao',
         address: '321 Đường Hoàng Văn Thụ , Phường 4 , Quận Tân Bình    ',
         image: '',
         latitude: 10.800634564959362,
@@ -62,8 +62,8 @@ class ClinicService {
       ),
       MapModel(
         id: 4,
-        name: 'Phòng khám Đa Khoa FPT-Cơ sở Quận Phú Nhuận',
-        description: 'Phòng khám chuyên khoa uy tín',
+        name: 'Sân Bóng Đá Quận 3',
+        description: 'Sân bóng đá mini chất lượng cao',
         address: '567 Đường Phan Xích Long , Phường 2 , Quận Phú Nhuận',
         image: '',
         latitude: 10.801325725714275,
@@ -71,8 +71,8 @@ class ClinicService {
       ),
       MapModel(
         id: 5,
-        name: 'Phòng khám Đa Khoa FPT-Cơ sở quận 5',
-        description: 'Phòng khám chuyên khoa uy tín',
+        name: 'Sân Bóng Đá Quận 4',
+        description: 'Sân bóng đá mini chất lượng cao',
         address: '789 Đường Trần Hưng Đạo , Phường 7 , Quận 5',
         image: '',
         latitude: 10.755355356343504,
